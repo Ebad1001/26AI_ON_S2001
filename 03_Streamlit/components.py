@@ -1,8 +1,9 @@
-# # streamlit run file.py
-# # python -m streamlit run file.py
-# # py -m streamlit run file.py
-# # python3 -m streamlit run file.py
-# # py -m streamlit run file.py
+# To run this file via terminal, use any of these commands
+# streamlit run file.py
+# python -m streamlit run file.py
+# py -m streamlit run file.py
+# python3 -m streamlit run file.py
+# py -m streamlit run file.py
 import streamlit as st
 
 # Sidebar
